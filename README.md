@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+![](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
 
 ## author is Mujianyu👋
 - 🎓 DLMU(master's degree)
