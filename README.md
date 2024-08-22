@@ -7,8 +7,9 @@
 - ❤  Program language: Python C++ (Java Lua)-toLearn 
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="190" align="left" style="margin: auto; margin-bottom: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujianyu&layout=compact" alt="logo" height="190" align="right" style="margin: auto; margin-bottom: 20px;" />
-<img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="300" align="center" style="margin: auto; margin-bottom: 20px;" />
 <img src="https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg" alt="logo" height="300"  align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="300" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 
 
 
