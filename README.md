@@ -1,7 +1,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MuJianYu's+github.)](https://git.io/typing-svg)
-![Snake](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
+
 <!--
 **mujianyu/mujianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - ❤  Program language: Python C++ (Java Lua)-toLearn 
 
 <img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+![Snake](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
