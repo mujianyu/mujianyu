@@ -1,3 +1,5 @@
+[![Snake]](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yadanang/yadanang/output/github-contribution-grid-snake-dark.svg) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MuJianYu's+github.)](https://git.io/typing-svg)
 
 <!--
@@ -23,8 +25,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-[![Snake]](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/yadanang/yadanang/output/github-contribution-grid-snake-dark.svg) 
+
 ## author is Mujianyu👋
 - 🎓 DLMU(master's degree)
 - 📖 [**MuJianYu's Bio**](https://mujianyu.github.io/)
