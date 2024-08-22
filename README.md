@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ## author is Mujianyu👋
-- 🎓 CSU(master's degree)
+- 🎓 DLMU(master's degree)
 - 📖 [**MuJianYu's Bio**](https://mujianyu.github.io/)
 - 📖 [**MuJianYu's blog**](https://blog.csdn.net/qq_45950599)
 - 🔭 Computer vision(目标检测-语言-分类)
