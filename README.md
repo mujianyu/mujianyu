@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MuJianYu's+github.)](https://git.io/typing-svg)
 <!--
 **mujianyu/mujianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ![Mujianyu's github stats](https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true&theme=radical)
 - ![Mujianyu's github stats](https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true)
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
