@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - 📖 [**MuJianYu's blog**](https://blog.csdn.net/qq_45950599)
 - 🔭 Computer vision(目标检测-多模态-轻量化)
 - ❤  Program language: Python C++ (Java Lua)-toLearn 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujianyu&layout=compact)](https://github.com/mujianyu/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
-![Snake](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujianyu&layout=compact)](https://github.com/mujianyu/github-readme-stats)
+[![Snake]](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
