@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - 黑色背景显示stars
 - ![Mujianyu's github stats](https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true&theme=radical)
 - ![Mujianyu's github stats](https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true)
-![](https://raw.githubusercontent.com/yadanang/yadanang/output/github-contribution-grid-snake-dark.svg) 
+
 -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 ![Snake](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
-
+![](https://raw.githubusercontent.com/yadanang/yadanang/output/github-contribution-grid-snake-dark.svg) 
 ## author is Mujianyu👋
 - 🎓 DLMU(master's degree)
 - 📖 [**MuJianYu's Bio**](https://mujianyu.github.io/)
