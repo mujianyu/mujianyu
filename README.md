@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mujianyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 <img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujianyu&layout=compact" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
-<img src="https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg" alt="logo" height="120" align="bottom" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg" alt="logo" height="200"  align="bottom" style="margin: auto; margin-bottom: 20px;" />
 ## author is Mujianyu👋
 - 🎓 DLMU(master's degree)
 - 📖 [**MuJianYu's Bio**](https://mujianyu.github.io/)
