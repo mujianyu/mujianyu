@@ -1,7 +1,7 @@
-[![Snake]](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/yadanang/yadanang/output/github-contribution-grid-snake-dark.svg) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MuJianYu's+github.)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+MuJianYu's+github.)](https://git.io/typing-svg)
+![Snake](https://raw.githubusercontent.com/mujianyu/mujianyu/output/github-contribution-grid-snake.svg)
 <!--
 **mujianyu/mujianyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🎓 DLMU(master's degree)
 - 📖 [**MuJianYu's Bio**](https://mujianyu.github.io/)
 - 📖 [**MuJianYu's blog**](https://blog.csdn.net/qq_45950599)
-- 🔭 Computer vision(目标检测-语言-分类)
+- 🔭 Computer vision(目标检测-多模态-轻量化)
 - ❤  Program language: Python C++ (Java Lua)-toLearn 
 
 <img src="https://github-profile-trophy.vercel.app/?username=mujianyu&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
